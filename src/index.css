@@ -1,11 +1,9 @@
-@import "tailwindcss/base";
-@import "tailwindcss components";
-@import "tailwindcss utilities";
+@import "tailwindcss";
 
 :root {
-  --color-navy: #001f3f; 
-  --color-gold: #FFD700; 
-  --color-red: #EF4444; 
+  --color-navy: #001f3f;
+  --color-gold: #FFD700;
+  --color-red: #EF4444;
 }
 
 body {
