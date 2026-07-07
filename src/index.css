@@ -1,0 +1,9 @@
+@import "tailwindcss/base";
+@import "tailwindcss components";
+@import "tailwindcss utilities";
+
+:root {
+  --color-navy: #001f3f;
+  --color-gold: #FFD700;
+  --color-muted: #6B7280;
+}
